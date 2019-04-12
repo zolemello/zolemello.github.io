@@ -1,0 +1,161 @@
+body {
+
+    background-color: darkgrey;
+}
+
+.cabecera {
+
+    background-image: url(../img/banner1.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.titulo {
+    align-content: flex-start;
+    color: #FFFFFF;
+    font-size: 12px;
+    display: none;
+
+}
+
+
+
+.logo {
+    width: 150px;
+    border-width: medium;
+    float: left;
+    margin-left: 600px;
+    margin-top: -50px;
+    position: fixed;
+
+
+
+
+}
+
+
+.tituloPagina {
+    background-color: #aed2f1;
+    text-align: left;
+    font-size: 25px;
+    font-family: sans-serif;
+    font: bold;
+    color: #4a73e8;
+    width: auto;
+    height: 30px;
+    border: #000000 1px solid;
+
+
+
+
+
+}
+
+
+.navegacion {
+    background: none;
+    text-align: center;
+    float: right;
+    object-position: right;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-top: 30px;
+    margin-right: 20px;
+
+}
+
+
+
+.boton1 {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: mediumslateblue;
+    border-color: #000000;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 50px;
+    margin-bottom: 5px;
+
+
+}
+
+.boton1:hover {
+    background-color: chartreuse;
+
+}
+
+.boton2 {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: cadetblue;
+    border-color: #000000;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 50px;
+    margin-bottom: 5px;
+
+
+}
+
+.boton2:hover {
+    background-color: chartreuse;
+}
+
+
+
+.tituloSeccion {
+    font: bold;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: oblique;
+    color: blue;
+}
+
+
+.actividad {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: bold italic;
+    text-align: left;
+    color: #000000;
+
+
+}
+
+.seccionCentral {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 200px;
+    background-color: none;
+    text-align: left;
+
+
+
+}
+
+
+
+.conenido {
+    align-content: center;
+    position: static;
+    display: inline-block;
+
+
+
+
+}

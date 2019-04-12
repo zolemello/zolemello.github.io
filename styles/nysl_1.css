@@ -1,0 +1,123 @@
+.cabecera {
+
+    background-image: url(../img/design1_image1.jpg);
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.titulo {
+    align-content: flex-start;
+    color: #FFFFFF;
+    font-size: 12px;
+
+}
+
+
+
+.logo {
+    float: right;
+    position: absolute;
+    right: 150px;
+    top: 250px;
+
+
+}
+
+
+.tituloPagina {
+    background-color: #000000;
+    text-align: center;
+    align-content: center;
+    font-size: 20px;
+    font-family: "ARIAL", serif;
+    color: #FFFFFF;
+    width: auto;
+    height: 30px;
+    margin: auto;
+    border: #000000 1px solid;
+
+
+
+}
+
+
+.navegacion {
+    background-color: #31EC7D;
+    text-align: center;
+    width: 189px;
+    height: 550px;
+    margin: auto;
+    float: left;
+    border: #000000 1px solid;
+}
+
+
+.boton1 {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    color: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #1AB94A;
+    border-color: #31EC7E;
+    border-width: 3px;
+    border-style: solid;
+    margin-bottom: 5px;
+}
+
+
+.boton2 {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    color: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #31EC7D;
+    border-color: #31EC7E;
+    border-width: 3px;
+    border-style: solid;
+    margin-bottom: 5px;
+}
+
+
+.tituloSeccion {
+    font: bold;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: oblique;
+    color: blue;
+}
+
+
+.actividad {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: center;
+
+}
+
+.seccionCentral {
+
+    margin-left: 190px;
+    background-color: #FFFFFF;
+    text-align: center;
+
+}
+
+
+
+.conenido {
+    align-content: center;
+
+
+}
